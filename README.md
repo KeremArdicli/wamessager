@@ -5,6 +5,7 @@
 ### Create a csv file with phone numbers an messages, send personalized messages to your contact list.
 
 - Dependencies:
+    - Google Chrome should be installed on your machine 
     - selenium
     - webdriver-manager
     - pyperclip

@@ -18,7 +18,7 @@ driver = webdriver.Chrome(options=option)
 
 # Open WhatsApp Web
 driver.get("https://web.whatsapp.com/")
-input("Press enter after you link your device and WhatsAppis raedy...")
+input("Press enter after you link your device and WhatsApp is raedy...")
 
 # Read CSV file for numbers and massages
 with open(csv_file, newline='\n', encoding='utf-8') as csvfile:
